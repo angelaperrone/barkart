@@ -1,3 +1,6 @@
+//Credit goes to Dan Shiffman and Jason Sigal for their help with making this project possbile
+//p5js.com
+
 var barks = [];
 var graphbarks = [];
 var barking;
